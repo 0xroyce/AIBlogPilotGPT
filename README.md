@@ -8,10 +8,10 @@ The length of articles is 4000 to 8000 words (can be updated via structure of ar
 
 ## What you need for AIBlogPilot to run
 
-OpenAI API key
-SerpAPI key
-Browserless API Key
-TNL Api Key (https://www.thenextleg.io/) for Midjourney Image Generation
+- OpenAI API key
+- SerpAPI key
+- Browserless API Key
+- TNL Api Key (https://www.thenextleg.io/) for Midjourney Image Generation
 
 ## Steps
 
