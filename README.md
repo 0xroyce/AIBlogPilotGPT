@@ -6,7 +6,7 @@ Research of internet included to get most relevant articles.
 
 The length of articles is 4000 to 8000 words (can be updated via structure of article).
 
-## What you need for AIBlogPilot to run
+## What You Need for AIBlogPilot to Run
 
 - OpenAI API key
 - SerpAPI key
@@ -31,3 +31,6 @@ The default generation is 15 articles. If you want to change it, go to orchestra
 
 All articles and images are saved temp directory.
 
+## Demo Blog
+
+https://nomadlyworking.com/
