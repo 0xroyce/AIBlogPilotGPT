@@ -34,7 +34,3 @@ All articles and images are saved temp directory.
 ## Demo Blog
 
 https://nomadlyworking.com/
-
-## Contact
-
-https://twitter.com/petrroyce
